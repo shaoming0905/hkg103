@@ -1,7 +1,7 @@
 ﻿<Gongs><List>
-	<Gong Name="SoulColor_1">   
-		<DisplayName>Colorful Glaze Sutra</DisplayName>
-		<Desc>Yuan Shitian respects the Taoism in the world, the secret of the colorful glaze valley。</Desc>
+	<Gong Name="SoulColor_12">   
+		<DisplayName>彩色釉經</DisplayName>
+		<Desc>袁世天敬奉世間道教，探索五彩釉谷的秘密。</Desc>
 		<SelectDesc>這種方法是一種輔助方法，尤其擅長恢復氣血和精煉器具。您是否選擇練習這種技巧？?</SelectDesc>
 		<FiveBaseNeed>1, 1, 1, 1, 1</FiveBaseNeed>
 		<SkillSetName></SkillSetName>
@@ -81,7 +81,7 @@
 					
 					<Neck Location="0.4" Kind="Chance">
 						<DisplayName>repose</DisplayName>
-						<Desc>Use the breath of the mother earth to nurture the gods and make them grow。</Desc>
+						<Desc>借用大地母親的氣息來滋養神靈，使它們生長。</Desc>
 						<CostTime>50</CostTime>
 						<SuccessChange>1</SuccessChange>
 						<!--<ItemCost>
@@ -90,8 +90,8 @@
 					</Neck>
 					
 					<Neck Location="0.8" Kind="Chance">
-						<DisplayName>Refining god</DisplayName>
-						<Desc>Condensing the gods with the power of heaven and earth。</Desc>
+						<DisplayName>煉神</DisplayName>
+						<Desc>以天地之力凝聚諸神。</Desc>
 						<CostTime>50</CostTime>
 						<SuccessChange>0.3</SuccessChange>
 					</Neck>
