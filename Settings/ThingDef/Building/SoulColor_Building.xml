@@ -1,8 +1,8 @@
 <ThingDefs><List>
 
 <ThingDef Type="Building" Name="SoulColor_MoFaZhen" Parent="ProductionBase">
-<ThingName>Magic Array</ThingName>
-<Desc>A magic circle built according to certain rules. Can produce items, store Qi and use specific magic. </Desc>
+<ThingName>魔法阵</ThingName>
+<Desc>按照特定规则构建的魔法阵。可以制造物品、储存气，并使用特定的魔法。 </Desc>
 <TexPath>Spr/Object/wuquan01.png</TexPath>
 <TexScale>0.4</TexScale>
 <SelectAble>1</SelectAble>
