@@ -1,7 +1,7 @@
 <ThingDefs><List>
 
 <ThingDef Type="Item" Name="SoulColor_Sword_GuiRen" Parent="WeaponBase">
-<ThingName>Qi Gathering Sword11</ThingName>
+<ThingName>Qi Gathering Sword</ThingName>
 <TexPath>res\Sprs\object\object_weaponjian01</TexPath>
 <MaxStack>1</MaxStack>
 <Desc> A sword condensed by absorbing the spiritual energy of spiritual stones and spiritual crystals, with its own spiritual gathering effect, which allows the user to launch attacks from the air without Qi, and has the special effect of isolating temperature. </Desc>
