@@ -1,0 +1,74 @@
+<ThingDefs>
+    <List>
+        <ThingDef Type="Building" Name="my_MoFaZhen" Parent="ProductionBase">
+            <ThingName>魔法阵</ThingName>
+            <Desc>按照特定规则构建的魔法阵。可以制造物品、储存气，并使用特定的魔法。</Desc>
+            <TexPath>Spr/Object/wuquan01.png</TexPath>
+            <TexScale>0.4</TexScale>
+            <SelectAble>1</SelectAble>
+            <ClassName>MoFaZhen_Building</ClassName>
+            <CastShadow>0</CastShadow>
+            <BlockMissile>1</BlockMissile>
+            <Beauty>100</Beauty>
+            <BlockLight>0</BlockLight>
+            <MaxHitPoints>100</MaxHitPoints>
+            <ColliderKind>None</ColliderKind>
+            <VisionRadius>0</VisionRadius>
+            <Flammability><Flammability>-1</Flammability></Flammability>
+            <Collider>
+                <Data>[6],</Data>
+                <WorkOffset><li Index="0" X="0" Y="0" Ang="1"/></WorkOffset>
+            </Collider>
+            <Light>
+                <Value>40</Value>
+                <Failing>0.6</Failing>
+                <FailRadius>5</FailRadius>
+                <Radius>10</Radius>
+                <Color>FFDEBCFF</Color>
+            </Light>
+            <Building>
+                <RoomKind>None</RoomKind>
+                <ShowFree>0</ShowFree>
+                <TerrainAffordanceNeeded>Ground</TerrainAffordanceNeeded>
+                <CanMakeRoom>0</CanMakeRoom>
+                <WorkAnimation>produce</WorkAnimation>
+                <BePackage>1</BePackage>
+                <NoFengshui>1</NoFengshui>
+                <NoFight>1</NoFight>
+                <BeMade>
+                    <WorkToMake>100</WorkToMake>
+                    <Quality>0</Quality>
+                    <StuffCategories>
+                        <Stuff name="MetalBlock"/>
+                        <Stuff name="WoodBlock"/>
+                        <Stuff name="RockBlock"/>
+                    </StuffCategories>
+                    <CostStuffCount>1</CostStuffCount>
+                </BeMade>
+                <ProducePriority>1</ProducePriority>
+                <ProduceKind>Handwork</ProduceKind>
+                <Produces>
+                    <Produce><ThingDef>my_Sword_GuiRen</ThingDef><Display>聚气剑</Display><Count>1</Count></Produce>
+                    <Produce><ThingDef>my_Dan_TXD</ThingDef><Display>天心丹</Display><Count>1</Count></Produce>
+                    <Produce><ThingDef>Item_LingCloth</ThingDef><Display>灵布</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>Item_JinLingStoneBlock</ThingDef><Display>金灵石砖</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>Item_MuLingStoneBlock</ThingDef><Display>木灵石砖</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>Item_ShuiLingStoneBlock</ThingDef><Display>水灵石砖</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>Item_HuoLingStoneBlock</ThingDef><Display>火灵石砖</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>Item_TuLingStoneBlock</ThingDef><Display>土灵石砖</Display><Count>5</Count></Produce>
+                    <Produce><ThingDef>my_Item_IronRockLeftover</ThingDef><Display>金灵石边角料</Display><Count>100</Count></Produce>
+                    <Produce><ThingDef>my_Item_WoodRockLeftover</ThingDef><Display>木灵石边角料</Display><Count>100</Count></Produce>
+                    <Produce><ThingDef>my_Item_SilverRockLeftover</ThingDef><Display>水灵石边角料</Display><Count>100</Count></Produce>
+                    <Produce><ThingDef>my_Item_CopperRockLeftover</ThingDef><Display>火灵石边角料</Display><Count>100</Count></Produce>
+                    <Produce><ThingDef>my_Item_BrownRockLeftover</ThingDef><Display>土灵石边角料</Display><Count>100</Count></Produce>
+                </Produces>
+            </Building>
+            <StoryBnts>
+                <li Name="Activate" Desc="启动法阵" Appoint="3" Story="my_MoFaZhen" Cost="5"/>
+            </StoryBnts>
+            <Ling>
+                <Attenuation>0.2</Attenuation>
+                <Absorption>1</Absorption>
+                <Accommodate>100</Accommodate>
+            </Ling>
+        </ThingDef
