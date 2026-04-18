@@ -26,7 +26,7 @@
 <Damage>500</Damage>
 <AttackSpeed>1.5</AttackSpeed>
 <AttackRange>10</AttackRange>
-<ArmorLingShield>20</ArmorLingShield>
+<ArmorLingShield>500</ArmorLingShield>
 <TemperatureMaxAdd>500</TemperatureMaxAdd>
 <TemperatureMinAdd>-500</TemperatureMinAdd>
 <AtkDamage>
@@ -51,7 +51,7 @@
 <AddionFailing>0.9</AddionFailing>
 <AddionFailRadius>2</AddionFailRadius>
 <Attenuation>0.1</Attenuation>
-<Absorption>1</Absorption>
+<Absorption>20</Absorption>
 <Accommodate>100</Accommodate>
 </Ling>
 <Light>
