@@ -8,7 +8,11 @@
             <Display>1</Display>
             <Sync>1</Sync>
             <Properties>
-                <li Name="BaseEmotionAddV" AddV="200"/> <li Name="MindStateBaseValue" AddV="200"/> <li Name="MaxLingAddV" AddV="10000"/> <li Name="LingAbsorbSpeedAddP" AddV="0.5"/> </Properties>
+                <li Name="BaseEmotionAddV" AddV="200"/> 
+                <li Name="MindStateBaseValue" AddV="200"/>  
+                <li Name="LingAbsorbSpeedAddP" AddV="0.5"/> 
+                <li Name="NpclingMaxValue" AddV="10000"/>
+            </Properties>
         </Modifier>
     </List>
 </ModifierDefs>
