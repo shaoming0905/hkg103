@@ -3,14 +3,14 @@
         <Modifier Name="SoulColor_TXD" Type="Normal">
             <DisplayName>Tianxin Dan</DisplayName>
             <Desc>Improve mood and mentalstate base value of 200. </Desc>
-            <MaxStack>10</MaxStack>
+            <MaxStack>20</MaxStack>
             <Duration>-1</Duration>
             <Display>1</Display>
             <Sync>1</Sync>
             <Properties>
                 <li Name="BaseEmotionAddV" AddV="200"/> 
                 <li Name="MindStateBaseValue" AddV="200"/>  
-                <li Name="NpcLingMaxValue" AddV="10000"/>
+                <li Name="NpcLingMaxValue" AddV="100000"/>
             </Properties>
         </Modifier>
     </List>
