@@ -14,7 +14,7 @@
 <li>Sharp</li>
 </PhysicalLables>
 <BeMade>
-<WorkToMake>600</WorkToMake>
+<WorkToMake>60</WorkToMake>
 <StuffCategories>
 <Stuff name = "MetalBlock"/>
 <Stuff name = "RockBlock"/>
@@ -23,12 +23,12 @@
 <CostStuffCount>5</CostStuffCount>
 </BeMade>
 <Equip>
-<Damage>30</Damage>
+<Damage>500</Damage>
 <AttackSpeed>1.5</AttackSpeed>
 <AttackRange>10</AttackRange>
-<ArmorLingShield>0.05</ArmorLingShield>
-<TemperatureMaxAdd>50</TemperatureMaxAdd>
-<TemperatureMinAdd>-50</TemperatureMinAdd>
+<ArmorLingShield>20</ArmorLingShield>
+<TemperatureMaxAdd>500</TemperatureMaxAdd>
+<TemperatureMinAdd>-500</TemperatureMinAdd>
 <AtkDamage>
 <li PartKind="Flesh" Name="Cut1" Rate="0.4"/>
 <li PartKind="Flesh" Name="Cut2" Rate="0.3"/>
@@ -47,7 +47,7 @@
 </Item>
 <Ling>
 <AddionLing>999999</AddionLing>
-<AddionRadius>3</AddionRadius>
+<AddionRadius>4</AddionRadius>
 <AddionFailing>0.9</AddionFailing>
 <AddionFailRadius>2</AddionFailRadius>
 <Attenuation>0.1</Attenuation>
