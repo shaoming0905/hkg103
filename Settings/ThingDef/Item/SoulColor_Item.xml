@@ -1,11 +1,12 @@
 <ThingDefs><List>
 
 <ThingDef Type="Item" Name="SoulColor_Sword_GuiRen" Parent="WeaponBase">
-<ThingName>Qi Gathering Sword</ThingName>
+<ThingName>聚气剑</ThingName>
 <TexPath>res\Sprs\object\object_weaponjian01</TexPath>
 <MaxStack>1</MaxStack>
-<Desc> A sword condensed by absorbing the spiritual energy of spiritual stones and spiritual crystals, with its own spiritual gathering effect, which allows the user to launch attacks from the air without Qi, and has the special effect of isolating temperature. </Desc>
+<Desc> 一把通过吸收灵石和灵晶的精神能量而凝聚而成的剑，具有自身的精神聚集效果，可以让使用者无需气就能从空中发动攻击，并且具有隔离温度的特殊效果. </Desc>
 <!--<KeepModelColor>1</KeepModelColor>--><!--Keep the color of the model texture and will not be affected by the main material-->
+<Rate>7</Rate>
 <Item Lable="Weapon">
 <NotFengshuiItem>1</NotFengshuiItem>
 <NotRandom>1</NotRandom>
@@ -20,17 +21,17 @@
 <Stuff name = "RockBlock"/>
 <Stuff name = "WoodBlock"/>
 </StuffCategories>
-<CostStuffCount>5</CostStuffCount>
+<CostStuffCount>1</CostStuffCount>
 </BeMade>
 <Equip>
-<Damage>1000</Damage>
-<AttackSpeed>0.5</AttackSpeed>
-<AttackRange>20</AttackRange>
+<Damage>500</Damage>
+<AttackSpeed>1.5</AttackSpeed>
+<AttackRange>10</AttackRange>
 <ArmorLingShield>20</ArmorLingShield>
 <TemperatureMaxAdd>500</TemperatureMaxAdd>
 <TemperatureMinAdd>-500</TemperatureMinAdd>
 <AtkDamage>
-<li PartKind="Brain" Name="VisceralCut" Rate="1"/>
+<li PartName="Brain" Name="Anaesthesia" Rate="1"/>
 </AtkDamage>
 <AtkAnis>
 <li Name="LJpugong1" HitPoint="11"/>
@@ -44,12 +45,12 @@
 </Equip>
 </Item>
 <Ling>
-<AddionLing>999999</AddionLing>
-<AddionRadius>4</AddionRadius>
+<AddionLing>1234</AddionLing>
+<AddionRadius>5</AddionRadius>
 <AddionFailing>0.9</AddionFailing>
 <AddionFailRadius>2</AddionFailRadius>
-<Attenuation>0.1</Attenuation>
-<Absorption>30</Absorption>
+<Attenuation>0.05</Attenuation>
+<Absorption>1.5</Absorption>
 <Accommodate>100</Accommodate>
 </Ling>
 <Light>
@@ -684,6 +685,44 @@
 <ElementPowerWhenBeMain>100</ElementPowerWhenBeMain>
 </BeMaterial>
 </Item>
+</ThingDef>
+
+<ThingDef Type="Item" Name="SoulColor_Dan_TXD1" Parent="DanBase">
+<ThingName>聚灵丹</ThingName>
+<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+<Desc> 增加灵气上限及回复速度 </Desc>
+<Tags>
+<Tag Name="PracticeFood" Level="2"/>
+</Tags>
+<Rate>6</Rate>
+<Beauty>10</Beauty>
+<ElementKind>Shui</ElementKind>
+<Item Lable="Dan">
+<NotFengshuiItem>1</NotFengshuiItem>
+<NotRandom>1</NotRandom>
+<PhysicalLables>
+<li>Smooth1</li>
+<li>Hard1</li>
+<li>Light1</li>
+</PhysicalLables>
+
+<Elixir>
+<Modifier>SoulColor_TXD1</Modifier>
+<Fesistance>1</Fesistance>
+</Elixir>
+
+<BeMade>
+<WorkToMake>20</WorkToMake>
+<CostItems>
+<Item name = "Item_Water" count = "1"/>
+</CostItems>
+</BeMade>
+</Item>
+<Element>
+<Kind>Shui</Kind>
+<Value>50</Value>
+<Radius>2</Radius>
+</Element>
 </ThingDef>
 
 </List></ThingDefs>
