@@ -84,6 +84,11 @@
 <Count>1</Count>
 </Produce>
 <Produce>
+<ThingDef>SoulColor_Dan_TXD1</ThingDef>
+<Display>Tianxin Dan</Display>
+<Count>1</Count>
+</Produce>
+<Produce>
 <ThingDef>Item_LingCloth</ThingDef>
 <Display>Spirit Cloth</Display>
 <Count>5</Count>
