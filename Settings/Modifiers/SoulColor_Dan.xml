@@ -13,7 +13,7 @@
                 <li Name="NpcLingMaxValue" AddV="100000"/>
             </Properties>
         </Modifier>
-        <Modifier Name="SoulColor_TXD" Type="Normal">
+        <Modifier Name="SoulColor_TXD1" Type="Normal">
             <DisplayName>聚灵丹</DisplayName>
             <Desc>增加灵气上限及回复速度 </Desc>
             <MaxStack>50</MaxStack>
