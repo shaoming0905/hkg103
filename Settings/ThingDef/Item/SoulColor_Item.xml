@@ -26,9 +26,9 @@
 <Damage>500</Damage>
 <AttackSpeed>1.5</AttackSpeed>
 <AttackRange>10</AttackRange>
-<ArmorLingShield>20</ArmorLingShield>
-<TemperatureMaxAdd>500</TemperatureMaxAdd>
-<TemperatureMinAdd>-500</TemperatureMinAdd>
+<ArmorLingShield>0.2</ArmorLingShield>
+<TemperatureMaxAdd>200</TemperatureMaxAdd>
+<TemperatureMinAdd>-200</TemperatureMinAdd>
 <AtkDamage>
 <li PartKind="Flesh" Name="Cut1" Rate="0.1"/>
 <li PartKind="Organ" Name="VisceralCut" Rate="0.9"/>
