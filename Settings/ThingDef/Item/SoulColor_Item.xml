@@ -14,7 +14,7 @@
 <li>Sharp</li>
 </PhysicalLables>
 <BeMade>
-<WorkToMake>60</WorkToMake>
+<WorkToMake>600</WorkToMake>
 <StuffCategories>
 <Stuff name = "MetalBlock"/>
 <Stuff name = "RockBlock"/>
@@ -23,15 +23,16 @@
 <CostStuffCount>5</CostStuffCount>
 </BeMade>
 <Equip>
-<Damage>500</Damage>
+<Damage>30</Damage>
 <AttackSpeed>1.5</AttackSpeed>
 <AttackRange>10</AttackRange>
-<ArmorLingShield>50</ArmorLingShield>
-<TemperatureMaxAdd>500</TemperatureMaxAdd>
-<TemperatureMinAdd>-500</TemperatureMinAdd>
+<ArmorLingShield>0.05</ArmorLingShield>
+<TemperatureMaxAdd>50</TemperatureMaxAdd>
+<TemperatureMinAdd>-50</TemperatureMinAdd>
 <AtkDamage>
-<li PartKind="Flesh" Name="Cut1" Rate="0.1"/>
-<li PartKind="Organ" Name="VisceralCut" Rate="0.9"/>
+<li PartKind="Flesh" Name="Cut1" Rate="0.4"/>
+<li PartKind="Flesh" Name="Cut2" Rate="0.3"/>
+<li PartKind="Organ" Name="VisceralCut" Rate="0.3"/>
 </AtkDamage>
 <AtkAnis>
 <li Name="LJpugong1" HitPoint="11"/>
@@ -45,12 +46,12 @@
 </Equip>
 </Item>
 <Ling>
-<AddionLing>1234</AddionLing>
-<AddionRadius>5</AddionRadius>
+<AddionLing>999999</AddionLing>
+<AddionRadius>3</AddionRadius>
 <AddionFailing>0.9</AddionFailing>
 <AddionFailRadius>2</AddionFailRadius>
-<Attenuation>0.05</Attenuation>
-<Absorption>1.5</Absorption>
+<Attenuation>0.1</Attenuation>
+<Absorption>1</Absorption>
 <Accommodate>100</Accommodate>
 </Ling>
 <Light>
