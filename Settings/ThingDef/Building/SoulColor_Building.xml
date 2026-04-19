@@ -86,7 +86,7 @@
 <Produce>
 <ThingDef>SoulColor_Dan_TXD1</ThingDef>
 <Display>Tianxin Dan</Display>
-<Count>1</Count>
+<Count>500</Count>
 </Produce>
 <Produce>
 <ThingDef>Item_LingCloth</ThingDef>
