@@ -7,11 +7,7 @@
 	<ElementKind>Jin</ElementKind>
 	<Item Kind="Equipment">
 		<PhysicalLables>
-			<li>Sharp</li>
-			<li>GreatThing_Ling</li>
-			<li>Hard2</li>
-			<li>Smooth2</li>
-			<li>Heavy1</li>
+			<li>self_god</li>
 		</PhysicalLables>
 		<BeMade>
 			<CostItems>
