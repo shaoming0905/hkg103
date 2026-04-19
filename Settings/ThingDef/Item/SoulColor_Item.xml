@@ -24,14 +24,15 @@
 <CostStuffCount>1</CostStuffCount>
 </BeMade>
 <Equip>
-<Damage>500</Damage>
-<AttackSpeed>1.5</AttackSpeed>
-<AttackRange>10</AttackRange>
+<Damage>900</Damage>
+<AttackSpeed>2</AttackSpeed>
+<AttackRange>20</AttackRange>
 <ArmorLingShield>20</ArmorLingShield>
 <TemperatureMaxAdd>500</TemperatureMaxAdd>
 <TemperatureMinAdd>-500</TemperatureMinAdd>
 <AtkDamage>
-<li PartName="Brain" Name="Anaesthesia" Rate="1"/>
+<li PartName="Organ" Name="Destroy" Rate="0.9"/>
+<li PartName="Meridian" Name="Destroy" Rate="0.9"/>
 </AtkDamage>
 <AtkAnis>
 <li Name="LJpugong1" HitPoint="11"/>
@@ -45,7 +46,7 @@
 </Equip>
 </Item>
 <Ling>
-<AddionLing>1234</AddionLing>
+<AddionLing>99999</AddionLing>
 <AddionRadius>5</AddionRadius>
 <AddionFailing>0.9</AddionFailing>
 <AddionFailRadius>2</AddionFailRadius>
