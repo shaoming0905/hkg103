@@ -1,0 +1,52 @@
+<ThingDefs><List>
+<ThingDef Type="Item" Name="Item_MiBao_Green Bamboo Wind and Cloud Sword" Parent="MiBaoBase">
+	<ThingName>青竹蜂云剑</ThingName>
+	<TexPath>res\Sprs\object\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object\object_MBjian01</FabaoTexPath>
+	<Desc>蕴含雷电法则</Desc>
+	<ElementKind>Jin</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Sharp</li>
+			<li>GreatThing_Ling</li>
+			<li>Hard2</li>
+			<li>Smooth2</li>
+			<li>Heavy1</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountAddDamage" nParam1="1" sParam1="TheWholeBody" sParam2="FivePoison" Desc="每15次攻击修行者本体，会穿透护盾造成额外伤害。"/>
+				 <Ability Kind="HitAddRecovery" fParam1="0.9"  Desc="造成伤害的90%会补充为法宝自身的灵气。"/> 
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Mu" Desc="对木属性目标伤害加深100%"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Tu" Desc="对土属性目标伤害加深100%"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Huo" Desc="对火属性目标伤害加深100%"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Jin" Desc="对金属性目标伤害加深100%"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Shui" Desc="对水属性目标伤害加深100%"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="0.9" fParam2="4" nParam1="0" Desc="造成伤害时，有90%的几率造成5倍伤害。"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="3" fParam2="0.5" nParam1="1" Desc="攻击敌方本体时，造成3.5倍伤害。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoPowerAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝威力加成50%。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoRepelResistanceAddV" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝抗击退50%。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoLingRecoverAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝灵气恢复50%。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoFlySpeedAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝飞行速度50%。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoTurnSpeedAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝转弯速度50%。"/>
+			</SpecialAbility>
+		</Fabao>
+		<UseLua>GameMain:GetMod('_FabaoHelper'):FabaoActiveWeather({'PermanentNight','PolarNight','YinChaos'})</UseLua>
+	</Item>
+	<Element>
+		<Kind>Jin</Kind>
+	</Element>
+	</ThingDef>
+	
+
+
+
+</List></ThingDefs>
