@@ -143,6 +143,11 @@
 <Display>Earthstone corner material</Display>
 <Count>100</Count>
 </Produce>
+<Produce>
+<ThingDef>Item_MiBao_Green Bamboo Wind and Cloud Sword</ThingDef>
+<Display>青竹蜂云剑</Display>
+<Count>1</Count>
+</Produce>
 </Produces>
 </Building>
 <StoryBnts>
