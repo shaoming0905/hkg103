@@ -148,6 +148,31 @@
 <Display>青竹蜂云剑</Display>
 <Count>1</Count>
 </Produce>
+<Produce>
+<ThingDef>Item_MiBao_Crimson Sky Sword</ThingDef>
+<Display>赤霄剑</Display>
+<Count>1</Count>
+</Produce>
+<Produce>
+<ThingDef>Item_MiBao_Azure Water Sword</ThingDef>
+<Display>碧水剑</Display>
+<Count>1</Count>
+</Produce>
+<Produce>
+<ThingDef>Item_MiBao_Wind and Thunder Sword</ThingDef>
+<Display>风雷剑</Display>
+<Count>1</Count>
+</Produce>
+<Produce>
+<ThingDef>Item_MiBao_Frost Sword</ThingDef>
+<Display>寒霜剑</Display>
+<Count>1</Count>
+</Produce>
+<Produce>
+<ThingDef>Item_MiBao_Mysterious Light Sword</ThingDef>
+<Display>玄光剑</Display>
+<Count>1</Count>
+</Produce>
 </Produces>
 </Building>
 <StoryBnts>
