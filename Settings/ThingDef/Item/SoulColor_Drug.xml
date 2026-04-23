@@ -25,7 +25,7 @@
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
-				<Modifier>Modifier_Item_Anodyne</Modifier>
+				<Modifier>Modifier_Item_Anodyne1</Modifier>
 				<Fesistance>10</Fesistance>
 			</Elixir>
 			<BeMade>
@@ -74,7 +74,7 @@
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
-				<Modifier>Modifier_Item_Anodyne</Modifier>
+				<Modifier>Modifier_Item_Anodyne2</Modifier>
 				<Fesistance>10</Fesistance>
 			</Elixir>
 			<BeMade>
