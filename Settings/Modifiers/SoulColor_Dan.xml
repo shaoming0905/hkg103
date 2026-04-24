@@ -25,5 +25,22 @@
                 <li Name="LingAbsorbSpeed" AddP="50"/>
             </Properties>
         </Modifier>
+
+        <Modifier Name="SoulColor_TXD2" Type="Normal">
+		<DisplayName>止痛药+</DisplayName>
+		<Desc>缓解疼痛，药效持续五天左右。</Desc>
+		<MaxStack>1</MaxStack>
+		<Duration>-1</Duration>
+		<Display>1</Display>
+        <BaseFive>20,20,20,20,20</BaseFive>
+		<Sync>1</Sync>
+		<Properties>
+			<li Name="PainTolerance" AddV="20000" AddP="0"/>
+            <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="10"/>
+            <li Name="NutritionWaterAutoRecover" AddV="1"/>
+            <li Name="NutritionConsumeConstant" AddP="-5"/>
+			<li Name="WaterConsumeConstant" AddP="-5"/>
+		</Properties>
+	</Modifier> 
     </List>
 </ModifierDefs>
