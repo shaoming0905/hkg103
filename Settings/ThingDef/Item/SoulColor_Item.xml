@@ -726,4 +726,43 @@
 </Element>
 </ThingDef>
 
+<ThingDef Type="Item" Name="SoulColor_Dan_TXD1" Parent="DanBase">
+<ThingName>止痛散+</ThingName>
+<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+<Desc> 常见的药物，能有效的缓解疼痛。 </Desc>
+<Tags>
+<Tag Name="PracticeFood" Level="2"/>
+</Tags>
+<Rate>6</Rate>
+<Beauty>10</Beauty>
+<ElementKind>Shui</ElementKind>
+<Item Lable="Dan">
+<NotFengshuiItem>1</NotFengshuiItem>
+<NotRandom>1</NotRandom>
+<PhysicalLables>
+<li>Smooth1</li>
+<li>Hard1</li>
+<li>Light1</li>
+</PhysicalLables>
+
+<Elixir>
+<Modifier>SoulColor_TXD2</Modifier>
+<Fesistance>1</Fesistance>
+</Elixir>
+
+<BeMade>
+<WorkToMake>20</WorkToMake>
+<CostItems>
+<Item name = "Item_Water" count = "1"/>
+</CostItems>
+</BeMade>
+</Item>
+<Element>
+<Kind>Shui</Kind>
+<Value>50</Value>
+<Radius>2</Radius>
+</Element>
+</ThingDef>
+
+
 </List></ThingDefs>
