@@ -726,7 +726,7 @@
 </Element>
 </ThingDef>
 
-<ThingDef Type="Item" Name="SoulColor_Dan_TXD1" Parent="DanBase">
+<ThingDef Type="Item" Name="SoulColor_Dan_TXD2" Parent="DanBase">
 <ThingName>止痛散+</ThingName>
 <TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
 <Desc> 常见的药物，能有效的缓解疼痛。 </Desc>
