@@ -89,6 +89,11 @@
 <Count>500</Count>
 </Produce>
 <Produce>
+<ThingDef>SoulColor_Dan_TXD2</ThingDef>
+<Display>Tianxin Dan</Display>
+<Count>500</Count>
+</Produce>
+<Produce>
 <ThingDef>Item_LingCloth</ThingDef>
 <Display>Spirit Cloth</Display>
 <Count>5</Count>
@@ -173,19 +178,6 @@
 <Display>玄光剑</Display>
 <Count>1</Count>
 </Produce>
-
-<Produce>
-<ThingDef>Modifier_Item_Anodyne1</ThingDef>
-<Display>超级止痛药</Display>
-<Count>100</Count>
-</Produce>
-
-<Produce>
-<ThingDef>Modifier_Item_Anodyne2</ThingDef>
-<Display>超级五维药</Display>
-<Count>100</Count>
-</Produce>
-
 </Produces>
 </Building>
 <StoryBnts>
