@@ -26,7 +26,7 @@
             </Properties>
         </Modifier>
 
-        <Modifier Name="SoulColor_TXD2" Type="Normal">
+        <Modifier Name="Modifier SoulColor_TXD2" Type="Normal">
 		<DisplayName>止痛药+</DisplayName>
 		<Desc>缓解疼痛，药效持续五天左右。</Desc>
 		<MaxStack>1</MaxStack>
