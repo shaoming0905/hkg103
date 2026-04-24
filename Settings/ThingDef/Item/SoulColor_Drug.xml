@@ -25,7 +25,7 @@
 				<li>Soft1</li>
 			</PhysicalLables>
 			<Elixir>
-				<Modifier>SoulColor_TXD2</Modifier>
+				<Modifier>Modifier SoulColor_TXD2</Modifier>
 				<Fesistance>10</Fesistance>
 			</Elixir>
 			<BeMade>
