@@ -8,9 +8,9 @@
             <Display>1</Display>
             <Sync>1</Sync>
             <Properties>
-                <li Name="BaseEmotionAddV" AddV="200"/> 
-                <li Name="MindStateBaseValue" AddV="200"/>  
-                <li Name="NpcLingMaxValue" AddV="100000"/>
+                <li Name="BaseEmotionAddV" AddV="200" />
+                <li Name="MindStateBaseValue" AddV="200" />
+                <li Name="NpcLingMaxValue" AddV="100000" />
             </Properties>
         </Modifier>
 
@@ -22,50 +22,58 @@
             <Display>1</Display>
             <Sync>1</Sync>
             <Properties>
-                <li Name="NpcLingMaxValue" AddV="100000"/>
-                <li Name="LingAbsorbSpeed" AddP="50"/>
+                <li Name="NpcLingMaxValue" AddV="100000" />
+                <li Name="LingAbsorbSpeed" AddP="50" />
             </Properties>
         </Modifier>
 
         <Modifier Name="SoulColor_TXD2" Type="Normal">
-		    <DisplayName>止痛药+</DisplayName>
-		    <Desc>缓解疼痛，药效持续五天左右。</Desc>
-		    <MaxStack>1</MaxStack>
-		    <Duration>-1</Duration>
-		    <Display>1</Display>
-		    <Sync>1</Sync>
-		    <Properties>
-			    <li Name="PainTolerance" AddV="20000" AddP="0"/>
-                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="10"/>
-                <li Name="NutritionWaterAutoRecover" AddV="1"/>
-                <li Name="NutritionConsumeConstant" AddP="-5"/>
-			    <li Name="WaterConsumeConstant" AddP="-5"/>
-		    </Properties>
-	    </Modifier> 
+            <DisplayName>止痛药+</DisplayName>
+            <Desc>缓解疼痛，药效持续五天左右。</Desc>
+            <MaxStack>1</MaxStack>
+            <Duration>-1</Duration>
+            <Display>1</Display>
+            <Sync>1</Sync>
+            <Properties>
+                <li Name="PainTolerance" AddV="20000" AddP="0" />
+                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="100" /><!--修炼速度加成-->
+                <li Name="NutritionWaterAutoRecover" AddV="1" />
+                <li Name="NutritionConsumeConstant" AddP="-5" /><!--食物消耗速度加成-->
+                <li Name="WaterConsumeConstant" AddP="-5" /><!--饮水消耗速度加成-->     
+                <li Name="WorldMapFlySpeedAddP" AddV="500"/><!--历练速度-->
+                <li Name="LingAbsorbSpeed" AddV="500"/><!--灵气恢复-->
+                <li Name="AbilityLvAddV" AddV="-200"/><!--道行-->
+                <li Name="MoveSpeed" AddP="2"/><!--移动速度-->
+                <li Name="SpeedOfMindStateCoefficient" AddP="-0.9"/><!--心境稳定程度-->
+
+
+            </Properties>
+        </Modifier>
 
         <Modifier Name="SoulColor_TXD3" Type="Normal">
-		    <DisplayName>五维药+</DisplayName>
-		    <Desc>五维上限+技能上限</Desc>
-		    <MaxStack>1</MaxStack>
-		    <Duration>-1</Duration>
-		    <Display>1</Display>
+            <DisplayName>五维药+</DisplayName>
+            <Desc>五维上限+技能上限</Desc>
+            <MaxStack>1</MaxStack>
+            <Duration>-1</Duration>
+            <Display>1</Display>
             <BaseFive>20,20,20,20,20</BaseFive>
-		    <Sync>1</Sync>
-		    <Properties>			    
-		    </Properties>
+            <Sync>1</Sync>
+            <Properties>
+            </Properties>
             <skill>
-                <li Name="SocialContact" Level="500"/>
-                <li Name="Fabao" Level="500"/>
-                <li Name="FightSkill" Level="500"/>
-                <li Name="Barrier" Level="500"/>
-                <li Name="Medicine" Level="500"/>
-				<li Name="DanQi" Level="500"/>
-                <li Name="Manual" Level="500"/>
+                <li Name="SocialContact" Level="110" /><!-- 社交 -->
+                <li Name="Medicine" Level="110" /><!-- 岐黄 -->
+                <li Name="Cooking" Level="110" /><!-- 烹饪 -->
+                <li Name="Building" Level="110" /><!-- 建筑 -->
+                <li Name="Farming" Level="110" /><!-- 农事 -->
+                <li Name="Mining" Level="110" /><!-- 采掘 -->
+                <li Name="Art" Level="110" /><!-- 巧匠 -->
+                <li Name="Manual" Level="110" /><!-- 制造 -->
+
 
             </skill>
-	    </Modifier> 
+        </Modifier>
 
-        
 
     </List>
 </ModifierDefs>
