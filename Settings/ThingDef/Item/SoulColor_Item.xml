@@ -116,9 +116,9 @@
 </ThingDef>
 -->
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD" Parent="DanBase">
-			<ThingName>Tianxin Dan</ThingName>
+			<ThingName>天心丹</ThingName>
 			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
-			<Desc> Permanently improve mood and mentalstate base value by 200. </Desc>
+			<Desc> 永久提升情绪和精神状态基础值 200。 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
 			</Tags>
@@ -154,12 +154,12 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_LingCloth">
-			<ThingName>Spirit Cloth</ThingName>
+			<ThingName>灵衣</ThingName>
 			<TexPath>res\Sprs\object\object_ApieceOfCloth</TexPath>
-			<Desc>The cloth made by softening the spirit stone can be used to make clothes. </Desc>
+			<Desc>用软化灵石制成的布料可以用来制作衣服。 </Desc>
 			<MaxStack>500</MaxStack>
-			<Beauty>10</Beauty>
-			<Rate>6</Rate>
+			<Beauty>12</Beauty>
+			<Rate>1</Rate>
 			<ElementKind>None</ElementKind>
 			<Color>#ffffff</Color>
 			<Flammability>
@@ -205,9 +205,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_MuLingStoneBlock" Parent="RockBlockBase">
-			<ThingName>Spirit Wood Stone Brick</ThingName>
+			<ThingName>灵木石砖</ThingName>
 			<TexPath>res\Sprs\object\object_brick03</TexPath>
-			<Desc>The bricks cut into the spirit stone can be more effectively used for making. </Desc>
+			<Desc>用灵石切割出的砖块可以更有效地用于制作。 </Desc>
 			<Color>6DC2CAFF</Color>
 			<Rate>6</Rate>
 			<Beauty>10</Beauty>
@@ -270,10 +270,10 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_TuLingStoneBlock" Parent="RockBlockBase">
-			<ThingName>Earthstone Brick</ThingName>
+			<ThingName>土石砖</ThingName>
 			<Color>8C6F14FF</Color>
 			<TexPath>res\Sprs\object\object_brick03</TexPath>
-			<Desc>The bricks cut into the spirit stone can be more effectively used for making. </Desc>
+			<Desc>用灵石切割出的砖块可以更有效地用于制作。 </Desc>
 			<Rate>6</Rate>
 			<Beauty>10</Beauty>
 			<ElementKind>Tu</ElementKind>
@@ -335,10 +335,10 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_JinLingStoneBlock" Parent="RockBlockBase">
-			<ThingName>Golden Spiritstone Brick</ThingName>
+			<ThingName>金色灵石砖</ThingName>
 			<Color>#fcf730</Color>
 			<TexPath>res\Sprs\object\object_brick03</TexPath>
-			<Desc>The bricks cut into the spirit stone can be more effectively used for making. </Desc>
+			<Desc>用灵石切割出的砖块可以更有效地用于制作。 </Desc>
 			<Rate>6</Rate>
 			<Beauty>10</Beauty>
 			<ElementKind>Jin</ElementKind>
@@ -400,10 +400,10 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_HuoLingStoneBlock" Parent="RockBlockBase">
-			<ThingName>Fire Spiritstone Brick</ThingName>
+			<ThingName>火焰灵石砖</ThingName>
 			<Color>#AF0000FF</Color>
 			<TexPath>res\Sprs\object\object_brick03</TexPath>
-			<Desc>The bricks cut into the spirit stone can be more effectively used for making. </Desc>
+			<Desc>用灵石切割出的砖块可以更有效地用于制作。 </Desc>
 			<Rate>6</Rate>
 			<Beauty>10</Beauty>
 			<ElementKind>Huo</ElementKind>
@@ -465,10 +465,10 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="Item_ShuiLingStoneBlock" Parent="RockBlockBase">
-			<ThingName>Water Spiritstone Brick</ThingName>
+			<ThingName>水灵石砖</ThingName>
 			<ThingName>D3F4FFFF</ThingName>
 			<TexPath>res\Sprs\object\object_brick03</TexPath>
-			<Desc>The bricks cut into the spirit stone can be more effectively used for making. </Desc>
+			<Desc>用灵石切割出的砖块可以更有效地用于制作。 </Desc>
 			<Rate>6</Rate>
 			<Beauty>10</Beauty>
 			<ElementKind>Shui</ElementKind>
@@ -530,9 +530,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Item_WoodRockLeftover" Parent="LeftoverMaterialBase">
-			<ThingName>Wood spirit stone offcut</ThingName>
+			<ThingName>木灵石边角料</ThingName>
 			<ElementKind>Mu</ElementKind>
-			<Desc>Construction leftovers mixed with broken wood can be used to pave floors or eaves. </Desc>
+			<Desc>建筑废料与碎木混合后可用于铺设地板或屋檐。 </Desc>
 			<Color>6FE1D8FF</Color>
 
 			<Flammability>
@@ -565,10 +565,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Item_BrownRockLeftover" Parent="LeftoverMaterialBase">
-			<ThingName>Earth and stone offcut</ThingName>
+			<ThingName>土石边角料</ThingName>
 			<ElementKind>Tu</ElementKind>
-			<Desc>The leftover materials mixed with broken brown stone can be used to pave floors or
-				eaves. </Desc>
+			<Desc>剩余的材料与碎棕色石头混合后，可以用来铺设地面或屋檐。 </Desc>
 			<Color>CABD8FFF</Color>
 			<Flammability>
 				<BurningPoint>1200</BurningPoint>
@@ -597,9 +596,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Item_IronRockLeftover" Parent="LeftoverMaterialBase">
-			<ThingName>Golden spirit stone offcut</ThingName>
+			<ThingName>金灵石边角料</ThingName>
 			<ElementKind>Jin</ElementKind>
-			<Desc>The leftover materials mixed with scrap iron can be used to pave floors or eaves. </Desc>
+			<Desc>剩余材料与废铁混合后可用于铺设地板或屋檐。 </Desc>
 			<Color>2E4244FF</Color>
 			<Flammability>
 				<BurningPoint>1200</BurningPoint>
@@ -628,10 +627,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Item_CopperRockLeftover" Parent="LeftoverMaterialBase">
-			<ThingName>Fire spirit stone offcut</ThingName>
+			<ThingName>火灵石边角料</ThingName>
 			<ElementKind>Huo</ElementKind>
-			<Desc>The remaining building materials mixed with fire copper scraps can be used to pave
-				floors or eaves. </Desc>
+			<Desc>剩余的建筑材料与耐火铜屑混合后可用于铺设地面或屋檐。 </Desc>
 			<Color>524030FF</Color>
 			<Flammability>
 				<BurningPoint>1200</BurningPoint>
@@ -662,10 +660,9 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Item_SilverRockLeftover" Parent="LeftoverMaterialBase">
-			<ThingName>Water spirit stone offcut</ThingName>
+			<ThingName>水灵石边角料</ThingName>
 			<ElementKind>Shui</ElementKind>
-			<Desc>The leftover materials mixed with cold crystal ore shavings can be used to pave
-				floors or eaves. </Desc>
+			<Desc>剩余材料与冷晶矿屑混合后可用于铺设地面或屋檐。 </Desc>
 			<Color>5D6D70FF</Color>
 			<Flammability>
 				<BurningPoint>1200</BurningPoint>
@@ -695,7 +692,7 @@
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD1" Parent="DanBase">
 			<ThingName>聚灵丹+</ThingName>
-			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 增加灵气上限及回复速度 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
@@ -733,7 +730,7 @@
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD2" Parent="DanBase">
 			<ThingName>止痛散+</ThingName>
-			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 常见的药物，能有效的缓解疼痛。 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
@@ -771,7 +768,7 @@
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD3" Parent="DanBase">
 			<ThingName>五维药+</ThingName>
-			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 五维上限+技能上限 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
@@ -807,7 +804,7 @@
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD4" Parent="DanBase">
 			<ThingName>修为药+</ThingName>
-			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 增加1000000修为 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
@@ -842,7 +839,7 @@
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD5" Parent="DanBase">
 			<ThingName>洗灵石</ThingName>
-			<TexPath>res\Sprs\object\object_XIAOdanyao02</TexPath>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 洗灵石 </Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
