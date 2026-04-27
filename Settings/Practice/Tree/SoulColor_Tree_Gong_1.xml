@@ -1,7 +1,7 @@
 ﻿<SkillTree><List>	
 	<Node Name="SoulColor_a0" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiXinFa1</Esoterica>
-		<DisplayName>Three-color Heart Method</DisplayName>
+		<DisplayName>三色心法</DisplayName>
 		<Level>Qi</Level>
 		<Index>0</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -26,13 +26,13 @@
 	
 	<Node Name="SoulColor_a0_1" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiXinFa2</Esoterica>
-		<DisplayName>Colorful Mind</DisplayName>
+		<DisplayName>多彩的思维</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_a0_2" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiXinFa3</Esoterica>
-		<DisplayName>Colorful Heart</DisplayName>
+		<DisplayName>彩色的心</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
@@ -44,7 +44,7 @@
 	
 	<Node Name="SoulColor_a1" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiMiXinZou1</Esoterica>
-		<DisplayName>Sleepy Heart Mantra</DisplayName>
+		<DisplayName>瞌睡之心咒语</DisplayName>
 		<Level>Qi</Level>
 		<Index>1</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -72,19 +72,19 @@
 	
 	<Node Name="SoulColor_a1_1" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiMiXinZou2</Esoterica>
-		<DisplayName>Heart spell</DisplayName>
+		<DisplayName>心咒</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_a1_2" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiMiXinZou3</Esoterica>
-		<DisplayName>Confusion</DisplayName>
+		<DisplayName>困惑</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_a3" Gong="SoulColor_1">
 		<Esoterica>Magic_MakePuppet</Esoterica>
-		<DisplayName>Soul Mastery</DisplayName>
+		<DisplayName>灵魂掌控</DisplayName>
 		<Level>Qi</Level>
 		<Index>3</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -105,7 +105,7 @@
 	
 	<Node Name="SoulColor_a5" Gong="SoulColor_1">
 		<Esoterica>SoulColor_XinYanZhou</Esoterica>
-		<DisplayName>Heart Eye Curse</DisplayName>
+		<DisplayName>心眼诅咒</DisplayName>
 		<Level>Qi</Level>
 		<Index>5</Index>
 		<Line>0,0,0,0,1,0,2,0</Line>
@@ -132,7 +132,7 @@
 	
 	<Node Name="SoulColor_a9" Gong="SoulColor_1">
 		<Esoterica>SoulColor_YangShengFa</Esoterica>
-		<DisplayName>Regeneration</DisplayName>
+		<DisplayName>再生</DisplayName>
 		<Level>Qi</Level>
 		<Index>9</Index>
 		<Line>0,0,0,0,1,1,0,1</Line>
@@ -159,7 +159,7 @@
 
 	<Node Name="SoulColor_a11" Gong="SoulColor_1">
 		<Esoterica>SoulColor_QiCaiLiuGuangZhen</Esoterica>
-		<DisplayName>Streamer array</DisplayName>
+		<DisplayName>流阵列</DisplayName>
 		<Level>Qi</Level>
 		<Index>11</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -180,7 +180,7 @@
 
 	<Node Name="SoulColor_b0" Gong="SoulColor_1">
 		<Esoterica>Magic_Healing_Damage_1</Esoterica>
-		<DisplayName>Panacea</DisplayName>
+		<DisplayName>万灵药</DisplayName>
 		<Level>Dan1</Level>
 		<Index>0</Index>
 		<Line>0,0,0,0,1,0,1,0</Line>
@@ -201,7 +201,7 @@
 	
 	<Node Name="SoulColor_b2" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LingRockMake</Esoterica>
-		<DisplayName>Qi Refining</DisplayName>
+		<DisplayName>气精炼</DisplayName>
 		<Level>Dan1</Level>
 		<Index>2</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -222,7 +222,7 @@
 	
 	<Node Name="SoulColor_b3" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LingLongFenXinShu1</Esoterica>
-		<DisplayName>Spirit Heart</DisplayName>
+		<DisplayName>心灵之心</DisplayName>
 		<Level>Dan1</Level>
 		<Index>3</Index>
 		<Line>0,0,0,0,0,1,2,0</Line>
@@ -247,13 +247,13 @@
 	
 	<Node Name="SoulColor_b3_1" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LingLongFenXinShu2</Esoterica>
-		<DisplayName>Dragon Heart</DisplayName>
+		<DisplayName>龙之心</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_b3_2" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LingLongFenXinShu3</Esoterica>
-		<DisplayName>Exquisite Heart</DisplayName>
+		<DisplayName>精致的心</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
@@ -265,7 +265,7 @@
 	
 	<Node Name="SoulColor_b5" Gong="SoulColor_1">
 		<Esoterica>SoulColor_ShengSiLu</Esoterica>
-		<DisplayName>Life and Death</DisplayName>
+		<DisplayName>生死</DisplayName>
 		<Level>Dan1</Level>
 		<Index>5</Index>
 		<Line>0,0,0,0,1,1,2,1</Line>
@@ -298,7 +298,7 @@
 	
 	<Node Name="SoulColor_b8" Gong="SoulColor_1">
 		<Esoterica>Gong9_Esoterica_9</Esoterica>
-		<DisplayName>Unity Chant</DisplayName>
+		<DisplayName>团结之歌</DisplayName>
 		<Level>Dan1</Level>
 		<Index>8</Index>
 		<Line>0,0,0,0,0,0,2,1</Line>
@@ -319,7 +319,7 @@
 	
 	<Node Name="SoulColor_b10" Gong="SoulColor_1">
 		<Esoterica>Gong9_Esoterica_8</Esoterica>
-		<DisplayName>Records of Coexistence</DisplayName>
+		<DisplayName>共存录</DisplayName>
 		<Level>Dan1</Level>
 		<Index>10</Index>
 		<Line>0,0,0,0,1,0,2,0</Line>
@@ -346,7 +346,7 @@
 	
 	<Node Name="SoulColor_c1" Gong="SoulColor_1">
 		<Esoterica>Magic_RebornSelf</Esoterica>
-		<DisplayName>Reverie Rebirth</DisplayName>
+		<DisplayName>梦境重生</DisplayName>
 		<Level>Dan2</Level>
 		<Index>1</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -370,7 +370,7 @@
 	
 	<Node Name="SoulColor_c3" Gong="SoulColor_1">
 		<Esoterica>Gong1_Esoterica_3</Esoterica>
-		<DisplayName>Windrider's Chant</DisplayName>
+		<DisplayName>风行者的圣歌</DisplayName>
 		<Level>Dan2</Level>
 		<Index>3</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -394,13 +394,13 @@
 	
 	<Node Name="SoulColor_c3_1" Gong="SoulColor_1">
 		<Esoterica>Gong1_LvUpEsoterica_4</Esoterica>
-		<DisplayName>Windrift Vector</DisplayName>
+		<DisplayName>风漂流矢量</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_c4" Gong="SoulColor_1">
 		<Esoterica>Gong1_Esoterica_5</Esoterica>
-		<DisplayName>Chant of the Rapids</DisplayName>
+		<DisplayName>急流之歌</DisplayName>
 		<Level>Dan2</Level>
 		<Index>4</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -421,7 +421,7 @@
 	
 	<Node Name="SoulColor_c5" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LunHuiJing</Esoterica>
-		<DisplayName>Samsara Sutra</DisplayName>
+		<DisplayName>轮回经</DisplayName>
 		<Level>Dan2</Level>
 		<Index>5</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -442,7 +442,7 @@
 	
 	<Node Name="SoulColor_c6" Gong="SoulColor_1">
 		<Esoterica>SoulColor_GuLingLengHuo</Esoterica>
-		<DisplayName>Bone Spirit Cold Fire</DisplayName>
+		<DisplayName>骨灵寒火</DisplayName>
 		<Level>Dan2</Level>
 		<Index>6</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -463,7 +463,7 @@
 	
 	<Node Name="SoulColor_c7" Gong="SoulColor_1">
 		<Esoterica>SoulColor_KongShuiShu</Esoterica>
-		<DisplayName>Water control</DisplayName>
+		<DisplayName>水控制</DisplayName>
 		<Level>Dan2</Level>
 		<Index>7</Index>
 		<Line>0,0,0,0,1,0,2,0</Line>
@@ -484,7 +484,7 @@
 	
 	<Node Name="SoulColor_c8" Gong="SoulColor_1">
 		<Esoterica>SoulColor_LunHuiLianQiShu</Esoterica>
-		<DisplayName>Crafting</DisplayName>
+		<DisplayName>制作</DisplayName>
 		<Level>Dan2</Level>
 		<Index>8</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -512,7 +512,7 @@
 	
 	<Node Name="SoulColor_c10" Gong="SoulColor_1">
 		<Esoterica>Gong2_Esoterica_8</Esoterica>
-		<DisplayName>Artifact Crafting for Dummies</DisplayName>
+		<DisplayName>神器制作入门</DisplayName>
 		<Level>Dan2</Level>
 		<Index>10</Index>
 		<Line>0,0,0,0,1,1,2,1</Line>
@@ -530,7 +530,7 @@
 	
 	<Node Name="SoulColor_c11" Gong="SoulColor_1">
 		<Esoterica>Magic_KongZhi1</Esoterica>
-		<DisplayName>Spirit curse</DisplayName>
+		<DisplayName>灵咒</DisplayName>
 		<Level>Dan2</Level>
 		<Index>11</Index>
 		<Line>0,0,0,0,0,0,2,1</Line>
@@ -550,7 +550,7 @@
 	
 	<Node Name="SoulColor_d0" Gong="SoulColor_1">
 		<Esoterica>Magic_BuildBody_1</Esoterica>
-		<DisplayName>Reconstruction</DisplayName>
+		<DisplayName>重建</DisplayName>
 		<Level>God</Level>
 		<Index>0</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -571,7 +571,7 @@
 	
 	<Node Name="SoulColor_d1" Gong="SoulColor_1">
 		<Esoterica>Magic_RobBodyHigh_1</Esoterica>
-		<DisplayName>Greater Possession</DisplayName>
+		<DisplayName>夺舍</DisplayName>
 		<Level>God</Level>
 		<Index>1</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -592,7 +592,7 @@
 	
 	<Node Name="SoulColor_d7" Gong="SoulColor_1">
 		<Esoterica>SoulColor_ShuiYuanShen</Esoterica>
-		<DisplayName>Water spirit</DisplayName>
+		<DisplayName>水精灵</DisplayName>
 		<Level>God</Level>
 		<Index>7</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -617,7 +617,7 @@
 	
 	<Node Name="SoulColor_d7_1" Gong="SoulColor_1">
 		<Esoterica>SoulColor_ShengMingYuanShen</Esoterica>
-		<DisplayName>Life spirit</DisplayName>
+		<DisplayName>生命精神</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
@@ -650,13 +650,13 @@
 	
 	<Node Name="SoulColor_d9_1" Gong="SoulColor_1">
 		<Esoterica>Gong2_LvUpEsoterica_7</Esoterica>
-		<DisplayName>Shenhuo Unity</DisplayName>
+		<DisplayName>神火联盟</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_d10" Gong="SoulColor_1">
 		<Esoterica>Gong2_Esoterica_3</Esoterica>
-		<DisplayName>Bingding Thunder Fire</DisplayName>
+		<DisplayName>丙丁真火雷</DisplayName>
 		<Level>God</Level>
 		<Index>10</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -677,13 +677,13 @@
 	
 	<Node Name="SoulColor_d10_1" Gong="SoulColor_1">
 		<Esoterica>Gong2_LvUpEsoterica_6</Esoterica>
-		<DisplayName>Bingding Thunder Fire</DisplayName>
+		<DisplayName>丙丁真火雷</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_d11" Gong="SoulColor_1">
 		<Esoterica>Gong2_Esoterica_5</Esoterica>
-		<DisplayName>Heart Flame</DisplayName>
+		<DisplayName>心焰</DisplayName>
 		<Level>God</Level>
 		<Index>11</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -704,13 +704,13 @@
 	
 	<Node Name="SoulColor_d11_1" Gong="SoulColor_1">
 		<Esoterica>Gong2_LvUpEsoterica_8</Esoterica>
-		<DisplayName>Shenhuo unity</DisplayName>
+		<DisplayName>神火统一</DisplayName>
 		<Level>None</Level>
 	</Node>
 	
 	<Node Name="SoulColor_e4" Gong="SoulColor_1">
 		<Esoterica>God2_Dan</Esoterica>
-		<DisplayName>God Pill of Heaven</DisplayName>
+		<DisplayName>天神丹</DisplayName>
 		<Level>God2</Level>
 		<Index>4</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
@@ -731,7 +731,7 @@
 	
 	<Node Name="SoulColor_e8" Gong="SoulColor_1">
 		<Esoterica>God2_Fabao</Esoterica>
-		<DisplayName>Heavenly Artifact</DisplayName>
+		<DisplayName>天赐神器</DisplayName>
 		<Level>God2</Level>
 		<Index>8</Index>
 		<Line>0,0,0,0,0,0,0,0</Line>
