@@ -750,7 +750,6 @@
 				<Elixir>
 					<Modifier>SoulColor_TXD2</Modifier>
 					<Fesistance>1</Fesistance>
-					<Ling>300000</Ling>
 				</Elixir>
 
 				<BeMade>
@@ -886,6 +885,44 @@
 				<Kind>Shui</Kind>
 				<Value>50</Value>
 				<Radius>2</Radius>
+			</Element>
+		</ThingDef>
+
+		<ThingDef Type="Item" Name="SoulColor_Dan_TXD5" Parent="DanBase">
+			<ThingName>灵气与精元</ThingName>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
+			<Desc> 灵气300万与精元1000 </Desc>
+			<Tags>
+				<Tag Name="PracticeFood" Level="2" />
+			</Tags>
+			<Rate>6</Rate>
+			<Beauty>10</Beauty>
+			<ElementKind>Shui</ElementKind>
+			<Item Lable="Dan">
+				<NotFengshuiItem>1</NotFengshuiItem>
+				<NotRandom>1</NotRandom>
+				<PhysicalLables>
+					<li>Smooth1</li>
+					<li>Hard1</li>
+					<li>Light1</li>
+				</PhysicalLables>
+				<Elixir>
+					<Ling>3000000</Ling>
+				</Elixir>
+				<BeMade>
+					<WorkToMake>20</WorkToMake>
+					<CostItems>
+
+					</CostItems>
+				</BeMade>
+				<Food>
+					<PracticeNutrition>1000</PracticeNutrition>		
+				</Food>
+			</Item>
+			<Element>
+				<Kind>None</Kind>
+				<Value>0</Value>
+				<Radius>1</Radius>
 			</Element>
 		</ThingDef>
 
