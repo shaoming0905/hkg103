@@ -28,7 +28,7 @@
         </Modifier>
 
         <Modifier Name="SoulColor_TXD2" Type="Normal">
-            <DisplayName>超能药+</DisplayName>
+            <DisplayName>超能药与止痛散+</DisplayName>
             <Desc>缓解疼痛，增加一堆数值。</Desc>
             <MaxStack>1</MaxStack>
             <Duration>-1</Duration>
@@ -49,7 +49,10 @@
                 <li Name="NpcFight_BaseHitChance" AddV="1"/><!--战斗命中-->
                 <li Name="NpcFight_BaseDodgeChance" AddV="1"/><!--战斗闪避-->
                 <li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/><!--护盾强度加成-->
+                <li Name="NutritionToJingYuanK" AddV="0.5"/><!--營養轉化精元係數-->
             </Properties>
+
+
         </Modifier>
 
         <Modifier Name="SoulColor_TXD3" Type="Normal">
