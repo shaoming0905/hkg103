@@ -110,6 +110,11 @@
                         <Count>500</Count>
                     </Produce>
                     <Produce>
+                        <ThingDef>SoulColor_Dan_TXD8</ThingDef>
+                        <Display>灵气与精元</Display>
+                        <Count>500</Count>
+                    </Produce>
+                    <Produce>
                         <ThingDef>Item_LingCloth</ThingDef>
                         <Display>灵衣</Display>
                         <Count>1000</Count>
