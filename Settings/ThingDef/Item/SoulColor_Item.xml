@@ -907,7 +907,7 @@
 					<li>Light1</li>
 				</PhysicalLables>
 				<Elixir>
-					<Ling>3000000</Ling>
+					<Ling>10000</Ling>
 				</Elixir>
 				<BeMade>
 					<WorkToMake>20</WorkToMake>
