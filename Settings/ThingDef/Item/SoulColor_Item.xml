@@ -916,7 +916,7 @@
 					</CostItems>
 				</BeMade>
 				<Food>
-					<PracticeNutrition>1000</PracticeNutrition>		
+					<PracticeNutrition>50</PracticeNutrition>		
 				</Food>
 			</Item>
 			<Element>
