@@ -888,7 +888,7 @@
 			</Element>
 		</ThingDef>
 
-		<ThingDef Type="Item" Name="SoulColor_Dan_TXD5" Parent="DanBase">
+		<ThingDef Type="Item" Name="SoulColor_Dan_TXD8" Parent="DanBase">
 			<ThingName>灵气与精元</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 灵气300万与精元1000 </Desc>
