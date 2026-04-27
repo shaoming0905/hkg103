@@ -42,14 +42,14 @@
                 <li Name="WaterConsumeConstant" AddP="-10" /><!--饮水消耗速度加成-->     
                 <li Name="WorldMapFlySpeedAddP" AddV="500"/><!--历练速度-->
                 <li Name="AbilityLvAddV" AddV="-200"/><!--道行-->
-                <li Name="MoveSpeed" AddP="50"/><!--移动速度-->
+                <li Name="MoveSpeed" AddP="200"/><!--移动速度-->
                 <li Name="SpeedOfMindStateCoefficient" AddP="-0.9"/><!--心境稳定程度-->
                 <li Name="PracticeRateAddPFromDan" AddP="0.9"/>
                 <li Name="ExperienceNeckTimeCostCoefficient" AddP="-0.9"/>
                 <li Name="NpcFight_BaseHitChance" AddV="1"/><!--战斗命中-->
                 <li Name="NpcFight_BaseDodgeChance" AddV="1"/><!--战斗闪避-->
                 <li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/><!--护盾强度加成-->
-                <li Name="NutritionToJingYuanK" AddV="0.5"/><!--營養轉化精元係數-->
+                <li Name="NutritionToJingYuanK" AddV="1"/><!--營養轉化精元係數-->
             </Properties>
 
 
