@@ -86,7 +86,7 @@
                     </Produce>
                     <Produce>
                         <ThingDef>SoulColor_Dan_TXD1</ThingDef>
-                        <Display>聚灵丹+</Display>
+                        <Display>灵气上限及回复速度</Display>
                         <Count>500</Count>
                     </Produce>
                     <Produce>
@@ -96,7 +96,7 @@
                     </Produce>
                     <Produce>
                         <ThingDef>SoulColor_Dan_TXD3</ThingDef>
-                        <Display>五维药+</Display>
+                        <Display>五维上限+技能上限药</Display>
                         <Count>500</Count>
                     </Produce>
                     <Produce>
