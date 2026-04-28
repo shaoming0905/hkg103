@@ -120,12 +120,12 @@
                         <Count>500</Count>
                     </Produce>
                     <Produce>
-                        <ThingDef>SoulColor_Dan_TX10</ThingDef>
+                        <ThingDef>SoulColor_Dan_TXD10</ThingDef>
                         <Display>灵气回复10万</Display>
                         <Count>500</Count>
                     </Produce>
                     <Produce>
-                        <ThingDef>SoulColor_Dan_TX11</ThingDef>
+                        <ThingDef>SoulColor_Dan_TXD11</ThingDef>
                         <Display>灵气回复100万</Display>
                         <Count>500</Count>
                     </Produce>
