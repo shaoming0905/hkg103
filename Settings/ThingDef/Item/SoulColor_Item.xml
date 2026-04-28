@@ -691,7 +691,7 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD1" Parent="DanBase">
-			<ThingName>聚灵丹+</ThingName>
+			<ThingName>灵气上限及回复速度</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 增加灵气上限及回复速度 </Desc>
 			<Tags>
@@ -924,7 +924,7 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD9" Parent="DanBase">
-			<ThingName>灵气回復</ThingName>
+			<ThingName>灵气回復1万</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 灵气回復1万</Desc>
 			<Tags>
@@ -962,7 +962,7 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD10" Parent="DanBase">
-			<ThingName>灵气与精元</ThingName>
+			<ThingName>灵气回復10万</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 灵气回復10万 </Desc>
 			<Tags>
@@ -1000,7 +1000,7 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD11" Parent="DanBase">
-			<ThingName>灵气回復</ThingName>
+			<ThingName>灵气回復100万</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 灵气回復100万 </Desc>
 			<Tags>
