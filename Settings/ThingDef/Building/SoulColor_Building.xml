@@ -111,7 +111,22 @@
                     </Produce>
                     <Produce>
                         <ThingDef>SoulColor_Dan_TXD8</ThingDef>
-                        <Display>灵气与精元</Display>
+                        <Display>精元回復500</Display>
+                        <Count>500</Count>
+                    </Produce>
+                    <Produce>
+                        <ThingDef>SoulColor_Dan_TXD9</ThingDef>
+                        <Display>灵气回复1万</Display>
+                        <Count>500</Count>
+                    </Produce>
+                    <Produce>
+                        <ThingDef>SoulColor_Dan_TX10</ThingDef>
+                        <Display>灵气回复10万</Display>
+                        <Count>500</Count>
+                    </Produce>
+                    <Produce>
+                        <ThingDef>SoulColor_Dan_TX11</ThingDef>
+                        <Display>灵气回复100万</Display>
                         <Count>500</Count>
                     </Produce>
                     <Produce>
