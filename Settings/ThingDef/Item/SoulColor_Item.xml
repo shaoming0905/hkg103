@@ -767,7 +767,7 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD3" Parent="DanBase">
-			<ThingName>五维药+</ThingName>
+			<ThingName>五维上限+技能上限药</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
 			<Desc> 五维上限+技能上限 </Desc>
 			<Tags>
@@ -889,9 +889,44 @@
 		</ThingDef>
 
 		<ThingDef Type="Item" Name="SoulColor_Dan_TXD8" Parent="DanBase">
-			<ThingName>灵气与精元</ThingName>
+			<ThingName>精元回復</ThingName>
 			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
-			<Desc> 灵气300万与精元1000 </Desc>
+			<Desc> 精元回復500 </Desc>
+			<Tags>
+				<Tag Name="PracticeFood" Level="2" />
+			</Tags>
+			<Rate>6</Rate>
+			<Beauty>10</Beauty>
+			<ElementKind>Shui</ElementKind>
+			<Item Lable="Dan">
+				<NotFengshuiItem>1</NotFengshuiItem>
+				<NotRandom>1</NotRandom>
+				<PhysicalLables>
+					<li>Smooth1</li>
+					<li>Hard1</li>
+					<li>Light1</li>
+				</PhysicalLables>
+				<BeMade>
+					<WorkToMake>20</WorkToMake>
+					<CostItems>
+
+					</CostItems>
+				</BeMade>
+				<Food>
+					<PracticeNutrition>500</PracticeNutrition>		
+				</Food>
+			</Item>
+			<Element>
+				<Kind>None</Kind>
+				<Value>0</Value>
+				<Radius>1</Radius>
+			</Element>
+		</ThingDef>
+
+		<ThingDef Type="Item" Name="SoulColor_Dan_TXD9" Parent="DanBase">
+			<ThingName>灵气回復</ThingName>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
+			<Desc> 灵气回復1万</Desc>
 			<Tags>
 				<Tag Name="PracticeFood" Level="2" />
 			</Tags>
@@ -908,6 +943,82 @@
 				</PhysicalLables>
 				<Elixir>
 					<Ling>10000</Ling>
+				</Elixir>
+				<BeMade>
+					<WorkToMake>20</WorkToMake>
+					<CostItems>
+
+					</CostItems>
+				</BeMade>
+				<Food>
+					<PracticeNutrition>500</PracticeNutrition>		
+				</Food>
+			</Item>
+			<Element>
+				<Kind>None</Kind>
+				<Value>0</Value>
+				<Radius>1</Radius>
+			</Element>
+		</ThingDef>
+
+		<ThingDef Type="Item" Name="SoulColor_Dan_TXD10" Parent="DanBase">
+			<ThingName>灵气与精元</ThingName>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
+			<Desc> 灵气回復10万 </Desc>
+			<Tags>
+				<Tag Name="PracticeFood" Level="2" />
+			</Tags>
+			<Rate>6</Rate>
+			<Beauty>10</Beauty>
+			<ElementKind>Shui</ElementKind>
+			<Item Lable="Dan">
+				<NotFengshuiItem>1</NotFengshuiItem>
+				<NotRandom>1</NotRandom>
+				<PhysicalLables>
+					<li>Smooth1</li>
+					<li>Hard1</li>
+					<li>Light1</li>
+				</PhysicalLables>
+				<Elixir>
+					<Ling>100000</Ling>
+				</Elixir>
+				<BeMade>
+					<WorkToMake>20</WorkToMake>
+					<CostItems>
+
+					</CostItems>
+				</BeMade>
+				<Food>
+					<PracticeNutrition>500</PracticeNutrition>		
+				</Food>
+			</Item>
+			<Element>
+				<Kind>None</Kind>
+				<Value>0</Value>
+				<Radius>1</Radius>
+			</Element>
+		</ThingDef>
+
+		<ThingDef Type="Item" Name="SoulColor_Dan_TXD11" Parent="DanBase">
+			<ThingName>灵气回復</ThingName>
+			<TexPath>res\Sprs\object\object_jianwan01</TexPath>
+			<Desc> 灵气回復100万 </Desc>
+			<Tags>
+				<Tag Name="PracticeFood" Level="2" />
+			</Tags>
+			<Rate>6</Rate>
+			<Beauty>10</Beauty>
+			<ElementKind>Shui</ElementKind>
+			<Item Lable="Dan">
+				<NotFengshuiItem>1</NotFengshuiItem>
+				<NotRandom>1</NotRandom>
+				<PhysicalLables>
+					<li>Smooth1</li>
+					<li>Hard1</li>
+					<li>Light1</li>
+				</PhysicalLables>
+				<Elixir>
+					<Ling>1000000</Ling>
 				</Elixir>
 				<BeMade>
 					<WorkToMake>20</WorkToMake>
