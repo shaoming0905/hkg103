@@ -15,7 +15,7 @@
         </Modifier>
 
         <Modifier Name="SoulColor_TXD1" Type="Normal">
-            <DisplayName>聚灵丹+</DisplayName>
+            <DisplayName>灵气上限及回复速度</DisplayName>
             <Desc>增加灵气上限及回复速度 </Desc>
             <MaxStack>50</MaxStack>
             <Duration>-1</Duration>
@@ -36,13 +36,13 @@
             <Sync>1</Sync>
             <Properties>
                 <li Name="PainTolerance" AddV="20000" AddP="0" />
-                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="100" /><!--修炼速度加成-->
+                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="1000" /><!--修炼速度加成-->
                 <li Name="NutritionWaterAutoRecover" AddV="1" />
                 <li Name="NutritionConsumeConstant" AddP="-10" /><!--食物消耗速度加成-->
                 <li Name="WaterConsumeConstant" AddP="-10" /><!--饮水消耗速度加成-->     
                 <li Name="WorldMapFlySpeedAddP" AddV="500"/><!--历练速度-->
                 <li Name="AbilityLvAddV" AddV="-200"/><!--道行-->
-                <li Name="MoveSpeed" AddP="200"/><!--移动速度-->
+                <li Name="MoveSpeed" AddP="500"/><!--移动速度-->
                 <li Name="SpeedOfMindStateCoefficient" AddP="-0.9"/><!--心境稳定程度-->
                 <li Name="PracticeRateAddPFromDan" AddP="0.9"/>
                 <li Name="ExperienceNeckTimeCostCoefficient" AddP="-0.9"/>
@@ -56,7 +56,7 @@
         </Modifier>
 
         <Modifier Name="SoulColor_TXD3" Type="Normal">
-            <DisplayName>五维药+</DisplayName>
+            <DisplayName>五维上限+技能上限药</DisplayName>
             <Desc>五维上限+技能上限</Desc>
             <MaxStack>1</MaxStack>
             <Duration>-1</Duration>
