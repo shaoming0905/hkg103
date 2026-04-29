@@ -1,6 +1,6 @@
 <ThingDefs>
 	<List>
-		<ThingDef Type="Item" Name="Item_BoarMeat" Parent="MeatBase">
+		<ThingDef Type="Item" Name="SoulColor_Meat_TD1" Parent="MeatBase">
 			<ThingName>猪肉</ThingName>
 			<TexPath>res\Sprs\object\object_wildboar</TexPath>
 			<Desc>猪肉。</Desc>
