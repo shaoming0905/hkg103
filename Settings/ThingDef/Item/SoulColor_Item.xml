@@ -1037,6 +1037,29 @@
 			</Element>
 		</ThingDef>
 
+		<ThingDef Type="Item" Name="SoulColor_Meat" Parent="MeatBase">
+			<ThingName>猪肉</ThingName>
+			<TexPath>res\Sprs\object\object_wildboar</TexPath>
+			<Desc>猪肉。</Desc>
+			<Beauty>1</Beauty>
+			<Rate>1</Rate>	
+			<MaxHitPoints>100</MaxHitPoints>
+			<MaxStack>9999</MaxStack>
+			<Item>
+				 <Food>
+					<EatDirectable>1</EatDirectable>
+					<Nutrition>100</Nutrition>
+				 </Food>
+		 		<BeMaterial>
+					<CostMultiplier>1</CostMultiplier>			
+					<WorktoMakeRate>1</WorktoMakeRate>
+					<WorktoBuildRate>1</WorktoBuildRate>
+				</BeMaterial>
+			</Item>
+		</ThingDef>
+
+
+		
 
 	</List>
 </ThingDefs>
