@@ -130,7 +130,7 @@
                         <Count>500</Count>
                     </Produce>
                     <Produce>
-                        <ThingDef>Item_BoarMeat1</ThingDef>
+                        <ThingDef>SoulColor_Meat</ThingDef>
                         <Display>猪肉</Display>
                         <Count>1000</Count>
                     </Produce>
