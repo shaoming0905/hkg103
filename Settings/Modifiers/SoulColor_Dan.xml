@@ -36,13 +36,13 @@
             <Sync>1</Sync>
             <Properties>
                 <li Name="PainTolerance" AddV="20000" AddP="0" />
-                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="1000" /><!--修炼速度加成-->
+                <li Name="DeepPracticeSpeedSpecialCoefficient" AddP="100000" /><!--修炼速度加成-->
                 <li Name="NutritionWaterAutoRecover" AddV="1" />
                 <li Name="NutritionConsumeConstant" AddP="-10" /><!--食物消耗速度加成-->
                 <li Name="WaterConsumeConstant" AddP="-10" /><!--饮水消耗速度加成-->     
-                <li Name="WorldMapFlySpeedAddP" AddV="500"/><!--历练速度-->
+                <li Name="WorldMapFlySpeedAddP" AddV="5000"/><!--历练速度-->
                 <li Name="AbilityLvAddV" AddV="-200"/><!--道行-->
-                <li Name="MoveSpeed" AddP="500"/><!--移动速度-->
+                <li Name="MoveSpeed" AddP="5000"/><!--移动速度-->
                 <li Name="SpeedOfMindStateCoefficient" AddP="-0.9"/><!--心境稳定程度-->
                 <li Name="PracticeRateAddPFromDan" AddP="0.9"/>
                 <li Name="ExperienceNeckTimeCostCoefficient" AddP="-0.9"/>
