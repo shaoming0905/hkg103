@@ -130,7 +130,7 @@
                         <Count>500</Count>
                     </Produce>
                     <Produce>
-                        <ThingDef>SoulColor_Meat</ThingDef>
+                        <ThingDef>SoulColor_Dan_TXD12</ThingDef>
                         <Display>猪肉</Display>
                         <Count>1000</Count>
                     </Produce>
