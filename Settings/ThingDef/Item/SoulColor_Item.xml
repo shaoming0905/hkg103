@@ -239,7 +239,7 @@
 				</BeMaterial>
 				<BeMade>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -545,7 +545,7 @@
 					<WorkToMake>20</WorkToMake>
 					<Quality>0</Quality>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 				<BeMaterial>
