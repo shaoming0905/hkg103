@@ -11,6 +11,7 @@
                 <li Name="BaseEmotionAddV" AddV="200" />
                 <li Name="MindStateBaseValue" AddV="200" />
                 <li Name="NpcLingMaxValue" AddV="100000" />
+                <li Name="MaxAge" AddV="5"/>
             </Properties>
         </Modifier>
 
