@@ -130,11 +130,6 @@
                         <Count>500</Count>
                     </Produce>
                     <Produce>
-                        <ThingDef>SoulColor_Dan_TXD12</ThingDef>
-                        <Display>猪肉</Display>
-                        <Count>1000</Count>
-                    </Produce>
-                    <Produce>
                         <ThingDef>Item_LingCloth</ThingDef>
                         <Display>灵衣</Display>
                         <Count>1000</Count>
@@ -218,6 +213,11 @@
                         <ThingDef>Item_MiBao_Mysterious Light Sword</ThingDef>
                         <Display>玄光剑</Display>
                         <Count>1</Count>
+                    </Produce>
+                    <Produce>
+                        <ThingDef>SoulColor_Dan_TXD12</ThingDef>
+                        <Display>猪肉</Display>
+                        <Count>1000</Count>
                     </Produce>
                 </Produces>
             </Building>
