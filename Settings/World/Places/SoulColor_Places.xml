@@ -42,7 +42,7 @@
 			</li>
 			<li>
 				<ThingDef>Item_Dan_LingYuanZhong</ThingDef>
-				<Count>40</Count>
+				<Count>1</Count>
 				<Rate>0.9</Rate>
 			</li>
 		</Produce>
