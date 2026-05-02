@@ -750,10 +750,12 @@
 				<Elixir>
 					<Modifier>SoulColor_TXD2</Modifier>
 					<Fesistance>1</Fesistance>
+					<RecoveryValue>2000</RecoveryValue>
+					<RecoveryDuration>0.04</RecoveryDuration>
 				</Elixir>
 
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 						
 					</CostItems>
@@ -789,7 +791,7 @@
 					<Fesistance>1</Fesistance>
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 						
 					</CostItems>
@@ -824,7 +826,7 @@
 					<TreeExp>1000000</TreeExp>
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 
 					</CostItems>
@@ -875,7 +877,7 @@
 					
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 
 					</CostItems>
@@ -945,7 +947,7 @@
 					<Ling>10000</Ling>
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 
 					</CostItems>
@@ -983,7 +985,7 @@
 					<Ling>100000</Ling>
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 
 					</CostItems>
@@ -1021,7 +1023,7 @@
 					<Ling>1000000</Ling>
 				</Elixir>
 				<BeMade>
-					<WorkToMake>20</WorkToMake>
+					<WorkToMake>5</WorkToMake>
 					<CostItems>
 
 					</CostItems>
@@ -1044,8 +1046,8 @@
 			<Frags>
 				<li Frag="Moon" />
 			</Frags>
-			<Beauty>1</Beauty>
-			<Rate>1</Rate>
+			<Beauty>6</Beauty>
+			<Rate>10</Rate>
 			<MaxHitPoints>100</MaxHitPoints>
 			<MaxStack>9999</MaxStack>
 			<Item>
