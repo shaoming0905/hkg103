@@ -142,7 +142,7 @@
 				<BeMade>
 					<WorkToMake>20</WorkToMake>
 					<CostItems>
-						<Item name="Item_Water" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -304,7 +304,7 @@
 				</BeMaterial>
 				<BeMade>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -369,7 +369,7 @@
 				</BeMaterial>
 				<BeMade>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -434,7 +434,7 @@
 				</BeMaterial>
 				<BeMade>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -499,7 +499,7 @@
 				</BeMaterial>
 				<BeMade>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 			</Item>
@@ -577,7 +577,7 @@
 					<WorkToMake>20</WorkToMake>
 					<Quality>0</Quality>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 				<BeMaterial>
@@ -639,7 +639,7 @@
 					<WorkToMake>20</WorkToMake>
 					<Quality>0</Quality>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 				<BeMaterial>
@@ -672,7 +672,7 @@
 					<WorkToMake>20</WorkToMake>
 					<Quality>0</Quality>
 					<CostItems>
-						<Item name="Item_LingStone" count="1" />
+						
 					</CostItems>
 				</BeMade>
 				<BeMaterial>
