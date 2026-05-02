@@ -40,6 +40,11 @@
 				<Count>40</Count>
 				<Rate>0.5</Rate>
 			</li>
+			<li>
+				<ThingDef>Item_Dan_LingYuanZhong</ThingDef>
+				<Count>40</Count>
+				<Rate>0.9</Rate>
+			</li>
 		</Produce>
 	</Place>
 </List></Places>
