@@ -49,7 +49,7 @@
                 <li Name="ExperienceNeckTimeCostCoefficient" AddP="-0.9"/>
                 <li Name="NpcFight_BaseHitChance" AddV="1"/><!--战斗命中-->
                 <li Name="NpcFight_BaseDodgeChance" AddV="1"/><!--战斗闪避-->
-                <li Name="NpcFight_ShieldConversionRateAddP" AddV="10"/><!--护盾强度加成-->
+                <li Name="NpcFight_ShieldConversionRateAddP" AddV="10000"/><!--护盾强度加成-->
                 <li Name="NutritionToJingYuanK" AddV="1"/><!--營養轉化精元係數-->
             </Properties>
 
