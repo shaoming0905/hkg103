@@ -26,9 +26,9 @@
 				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Huo" Desc="对火属性目标伤害加深100%"/>
 				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Jin" Desc="对金属性目标伤害加深100%"/>
 				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="1" nParam1="0" sParam1="Shui" Desc="对水属性目标伤害加深100%"/>
-				 <Ability Kind="AtkRateDamageAddp" fParam1="0.9" fParam2="4" nParam1="0" Desc="造成伤害时，有90%的几率造成5倍伤害。"/>
-				 <Ability Kind="AtkRateDamageAddp" fParam1="3" fParam2="0.5" nParam1="1" Desc="攻击敌方本体时，造成3.5倍伤害。"/>
-				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoPowerAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝威力加成50%。"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="1" fParam2="500" nParam1="0" Desc="造成伤害时，有90%的几率造成5倍伤害。"/>
+				 <Ability Kind="AtkRateDamageAddp" fParam1="50" fParam2="0.5" nParam1="1" Desc="攻击敌方本体时，造成3.5倍伤害。"/>
+				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoPowerAddP" fParam2="500" nParam1="1" Desc="从根本上提高自身法宝威力加成50%。"/>
 				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoRepelResistanceAddV" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝抗击退50%。"/>
 				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoLingRecoverAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝灵气恢复50%。"/>
 				 <Ability Kind="Sync_AddEquptData" sParam1="NpcFight_FabaoFlySpeedAddP" fParam2="0.5" nParam1="1" Desc="从根本上提高自身法宝飞行速度50%。"/>
