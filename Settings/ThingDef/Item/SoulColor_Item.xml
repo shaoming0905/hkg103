@@ -35,6 +35,9 @@
 					<AtkDamage>
 						<li PartName="Organ" Name="Destroy" Rate="0.9" />
 						<li PartName="Meridian" Name="Destroy" Rate="0.9" />
+						<li PartKind="Organ" Name="Huo_VisceralBurn" Rate="0.9" DescTags="至阴异雷"/>
+				        <li PartKind="Bone" Name="Huo_MarrowDry" Rate="0.9" DescTags="至阴异雷"/>
+				        <li PartKind="Flesh" Name="Huo_BurnOfPain" Rate="0.9" DescTags="至阴异雷"/>
 					</AtkDamage>
 					<AtkAnis>
 						<li Name="LJpugong1" HitPoint="11" />
