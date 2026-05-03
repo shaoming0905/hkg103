@@ -850,7 +850,7 @@
 				<Tag Name="PracticeFood" Level="2" />
 			</Tags>
 			<Rate>6</Rate>
-			<Beauty>10</Beauty>
+			<Beauty>20</Beauty>
 			<ElementKind>Shui</ElementKind>
 			<Item Lable="Dan">
 				<Prices>
