@@ -51,6 +51,14 @@
                 <li Name="NpcFight_BaseDodgeChance" AddV="1"/><!--战斗闪避-->
                 <li Name="NpcFight_ShieldConversionRateAddP" AddV="10000"/><!--护盾强度加成-->
                 <li Name="NutritionToJingYuanK" AddV="1"/><!--營養轉化精元係數-->
+	              <li Name="NpcFight_ShieldConversionRate" AddV="0.9"/>
+		           	<li Name="NpcFight_ShieldResistanceToJin" AddV="0.9"/>
+								<li Name="NpcFight_ShieldResistanceToMu" AddV="0.9"/>
+								<li Name="NpcFight_ShieldResistanceToShui" AddV="0.9"/>
+								<li Name="NpcFight_ShieldResistanceToHuo" AddV="0.9"/>
+								<li Name="NpcFight_ShieldResistanceToTu" AddV="0.9"/>
+		</Properties>
+
             </Properties>
 
 
